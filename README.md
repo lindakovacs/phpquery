@@ -3,7 +3,7 @@
 1. Fork the repository
 2. Find the **ssh** or **https** link on the right-hand side of the repository. 
 Copy the link and then type this into your termainal: 
-*$git clone **ssh url***
+*$git clone* **ssh url**
 3. $cd <repo folder>
 4. $git checkout -b <new branch name>
 5. Open the file that contains the error in your text editor.
