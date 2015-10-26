@@ -23,3 +23,6 @@ Copy the link and then type this into your terminal:
 8. Compare and hit green 'Pull-Request' button.
 9. Hit 'Create Pull Request'
 10. Finished!
+
+You can also use [Code Triage](http://www.codetriage.com) to search for Github issues.  
+Use their 'Filter list by Language' to see PHP specific issues.   
