@@ -12,9 +12,9 @@ Copy the link and then type this into your terminal:
 6. Make changes.
 7. Add, commit, and push your changes. 
   ```
-  $git add <filename>
-  $git commit -m "<message>" --author-'Ellen<youremail@email.com>'
-  $git push <remote name> <branch name>
+  $git add <filename>```
+  ```$git commit -m "<message>" --author-'Ellen<youremail@email.com>'```
+  ```$git push <remote name> <branch name>
   ```
 8. Compare and hit green 'Pull-Request' button.
 9. Hit 'Create Pull Request'
