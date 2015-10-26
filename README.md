@@ -9,7 +9,8 @@ When you find an Issue you are interested in resolving, click on the repository 
 Copy the link and then type this into your terminal: 
   ```
   $git clone <ssh url>
-  ```
+  ```  
+  This will copy all the repository files onto your computer.  
 3. ```$cd <repo folder>```
 4. ```$git checkout -b <new branch name>```
 5. Open the file that contains the error in your text editor.
