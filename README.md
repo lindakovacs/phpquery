@@ -1,5 +1,9 @@
 # How to make contributions on Github
 
+Search *Issues* (second option to the right of the search bar up top).  
+Some search queries you can use: 'typos', 'documentation', 'html', etc.
+When you find an Issue you are interested in resolving, click on the repository name and follow the below steps:
+
 1. Fork the repository
 2. Find the **ssh** or **https** link on the right-hand side of the repository. 
 Copy the link and then type this into your terminal: 
