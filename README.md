@@ -26,3 +26,4 @@ Copy the link and then type this into your terminal:
 
 You can also use [Code Triage](http://www.codetriage.com) to search for Github issues.  
 Use their 'Filter list by Language' to see PHP specific issues.   
+![alt text](http://i.imgur.com/FXrjDnh.png "Code Triage")
