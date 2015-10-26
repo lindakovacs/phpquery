@@ -12,7 +12,7 @@ Copy the link and then type this into your terminal:
   ```  
   This will copy all the repository files onto your computer.  
 3. ```$cd <repo folder>```
-4. Make a new branch  
+4. Make a new branch and change into it:    
   ```$git checkout -b <new branch name>```
 5. Open the file that contains the error in your text editor.
 6. Make changes.
