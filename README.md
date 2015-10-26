@@ -11,8 +11,7 @@ Copy the link and then type this into your terminal:
 5. Open the file that contains the error in your text editor.
 6. Make changes.
 7. Add, commit, and push your changes.    
-  ```  
-  $git add <filename>   
+  ```$git add <filename>    
   $git commit -m "<message>" --author-'Ellen<youremail@email.com>'   
   $git push <remote name> <branch name>   
   ```
